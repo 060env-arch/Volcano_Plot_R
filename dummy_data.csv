@@ -1,0 +1,5 @@
+Gene_ID,log2FoldChange,pvalue
+Gene_A,2.5,0.001
+Gene_B,-3.1,0.0005
+Gene_C,0.8,0.15
+Gene_D,-1.2,0.02
